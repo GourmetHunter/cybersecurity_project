@@ -1,2 +1,4 @@
 # cybersecurity_project
-For https://cybersecuritybase.mooc.fi/
+Made for [Cyber Security MOOC](https://cybersecuritybase.mooc.fi/)
+
+by Olli Kärki

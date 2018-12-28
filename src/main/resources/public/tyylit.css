@@ -1,0 +1,33 @@
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: #efc;
+	margin-left: 4em;
+	margin-right: 20%;
+}
+
+h1.top {
+	border-bottom: thin solid gray;
+}
+
+nav.nlink {
+	background: #deb;
+	padding: 6px;
+	margin-left: -4em;
+	margin-top: -0.5em;
+}
+
+nav.slink {
+	background: #deb;
+	padding: 6px;
+	margin-left: 0em;
+	margin-top: -1.55em;
+}
+
+form.log {
+    float:right;
+}
+
+a.navl {
+    margin-right: 8px
+}
